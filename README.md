@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ko">
-<a href="https://www.http://bravocon1234.com">이것은 링크입니다</a>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
